@@ -18,7 +18,7 @@ public class CarController : MonoBehaviour
     private bool speedDown;
 
     private int speedMultiply;
- int x;
+ 
     void Start()
     {
         currentPosition = transform.position;
